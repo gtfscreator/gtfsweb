@@ -1,0 +1,13 @@
+{
+  "name": "gtfsweb",
+  "description": "gtfs webapp",
+  "dependencies": {
+    "angular": "~1.4.x",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.4",
+    "leaflet.markercluster": "~0.4.0"
+  },
+  "resolutions": {
+    "angular": "~1.4.x"
+  }
+}

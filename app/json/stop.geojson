@@ -1,0 +1,12 @@
+{"type":"FeatureCollection","features":
+  [
+    {"id":4847,
+      "type":"Feature",
+      "geometry":{"type":"Point","coordinates":[9.20940940787671,45.4853182010279]},
+      "properties":{"stop_id":"CAIAZZO","code":null,"name":"CAIAZZO","desc":null,"url":null,"location_type":null,"timezone":"Europe/Rome","wheelchair_boarding":"2","extra_data":null,"feed":1,"zone":null,"parent_station":null}},
+  {"id":4846,
+    "type":"Feature",
+    "geometry":{"type":"Point","coordinates":[9.25623390785034,45.4292064010295]},
+    "properties":{"stop_id":"SAN DONATO","code":null,"name":"SAN DONATO","desc":null,"url":null,"location_type":null,"timezone":"Europe/Rome","wheelchair_boarding":"1","extra_data":null,"feed":1,"zone":null,"parent_station":null}}
+]
+}
